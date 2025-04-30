@@ -1,6 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-### Name: GOKUL SHARAN R
-### Reg.No: 212223040052
+## Name: GOKUL SHARAN R
+## Reg.No: 212223040052
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
